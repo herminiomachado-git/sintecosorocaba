@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+     <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>APLICADORA SOROCABA</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+		<!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+		<link href="css/aps.css" rel="stylesheet" />
+		
+		<!--Whatsapp-->
+		<a href="https://api.whatsapp.com/send?phone=5515997366848&text=Ol%C3%A1,%20acabei%20de%20acessar%20o%20seu%20site,%20poderia%20me%20retornar%20aqui%20pelo%20Whatsapp?" 
+			style="position:fixed;
+			width:50px;
+			height:50px;
+			bottom:70px;
+			right:40px;
+			background-color:#25d366;
+			color:#FFF;
+			border-radius:50px;
+			text-align:center;
+			font-size:30px;
+			box-shadow: 1px 1px 2px #888; z-index:1000;" target="_blank">
+			<i style="margin-top:12px" class="fa fa-whatsapp"></i>
+		</a>
+		<!--Fim Whatsapp-->
+		
+		<!--Facebook-->
+		<a href="https://www.facebook.com/nilson.machado.3" 
+			style="position:fixed;
+			width:50px;
+			height:50px;
+			bottom:70px;
+			right:100px; 
+			background-color:#3b5998;
+			color:#FFF;
+			border-radius:50px;
+			text-align:center;
+			font-size:30px;
+			box-shadow: 1px 1px 2px #888; z-index:1000;" target="_blank">
+			<i style="margin-top:12px" class="fa fa-facebook"></i>
+		</a>
+		<!--Fim Facebook-->
+		
+		<!--Instagram-->
+		<a href="https://www.instagram.com/resina.bona.sorocaba" 
+			style="position:fixed;
+			width:50px;
+			height:50px;
+			bottom:70px;
+			right:160px; 
+			background-color:#8a3ab9;
+			color:#FFF;
+			border-radius:50px;
+			text-align:center;
+			font-size:30px;
+			box-shadow: 1px 1px 2px #888; z-index:900;" target="_blank">
+			<i style="margin-top:12px" class="fa fa-instagram"></i>
+		</a>
+		<!--Fim Instagram-->
+		
+		<!--YouTube-->
+		<a href="https://www.youtube.com/channel/UCF7QVClbTdIizfXMPab-Qrw?view_as=subscriber" 
+			style="position:fixed;
+			width:50px;
+			height:50px;
+			bottom:70px;
+			right:220px; 
+			background-color:#ff0000;
+			color:#FFF;
+			border-radius:50px;
+			text-align:center;
+			font-size:30px;
+			box-shadow: 1px 1px 2px #888; z-index:900;" target="_blank">
+			<i style="margin-top:5px" class="fa fa-youtube"></i>
+		</a>
+		<!--Fim YouTube--> 
+    </head>
+    <body>
+        <!-- Responsive Navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-success   fixed-top">
+		
+            <div class="container px-5">
+	             <!-- Logo e nome da empresa  -->
+                     <a class="navbar-brand m-0 text-center " >
+					    <img src="assets/logo.png" width="40" height="40" >
+						APLICADORA SOROCABA
+					</a>
+					
+				<!-- Menu Mobile Hamburguer -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <!-- Fim Menu Mobile Hamburguer -->
+				
+				<div class="collapse navbar-collapse navbar-dark " id="navbarSupportedContent">
+                    <ul class="text-light navbar-nav ms-auto mb-2 mb-lg-0 ">
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="\assets\index.html">INICIO</a></li>
+                        <li class="nav-item"><a class="nav-link" href="sobre.html">SOBRE NÓS</a></li>
+                        <li class="nav-item"><a class="nav-link" href="dicas.html">DICAS</a></li>
+                        <li class="nav-item"><a class="nav-link" href="galeria.html">GALERIA</a></li>
+						<li class="nav-item"><a class="nav-link" href="contato.html">CONTATO</a></li>
+                    </ul>
+                </div>
+            </div>
+			
+        </nav>
+		<!-- Fim Responsive Navbar -->
+		
+	
+		
+        <!-- Page Content-->
+        <div class="container px-4 px-lg-5 ">
+		
+			
+
+			
+			<!-- Carousel -->
+			
+		<!-- Fim Carousel-->
+		
+		            <!-- Heading Row-->
+ <div class="card mb-3">
+  <img src="assets/sobre.png" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">BEM VINDO A APLICADORA SOROCABA</h5>
+    <p class="card-text">Somos uma empresa independente, com administração familiar e somos especialistas em  restauração. Com mais de 30 anos de experiência temos o prazer de ser capaz de oferecer um serviço de lixamento profissional.Usando apenas o melhor do equipamento (todos praticamente livre de poeira!) Que são capazes de realizar o lixamento de tacos, assoalhos,parquetes e decks de madeira. Acabamentos utilizados incluem gama de vernizes P.U, Resina-UF, Poliuretano base d’ Agua sem Cheiro e Secagem Rapida e óleos . Trabalhar em ambientes residenciais e comerciais, nossa equipe está totalmente preparada e segurado.</p>
+    <p class="card-text"><small class="text-muted">RESPONSAVÉL TÉCNICO: <strong>Lidiane Machado</strong></small></p>
+  </div>
+</div>
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">COMPROMISSO</h5>
+    <p class="card-text">Em mais de três  década de existência,  faz da inovação a sua principal ferramenta para diversificar seus negócios, abrindo com sucesso um leque de atividades em diferentes setores, dirigidos de maneira independente e com autonomia de decisões. Diversificação que em nenhum momento significou perda de foco .
+
+  Com alto grau de competência humana, asseguramos a eficiência e qualidade de trabalho desta empresa.
+
+Nossos valores são: Inovação, Profissionalismo, Respeito, Competência e Integridade.</p>
+    <p class="card-text"><small class="text-muted">RESPONSAVÉL TÉCNICO: <strong>Nilson Machado</strong></small></p>
+  </div>
+  <img src="assets/final.png" class="card-img-bottom mt-5" alt="...">
+</div>
+            </div>
+			<!-- Fim Content Row 02-->
+			
+        </div>
+		
+        <!-- Footer-->
+        <footer class="py-5 bg-success mt-2">
+            <div class="container px-4 px-lg-5"><p class="m-0 text-center text-white">Copyright &copy; Your Website 2023</p></div>
+        </footer>
+		<!-- Fim Footer-->
+		
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+		
+    </body>
+</html>

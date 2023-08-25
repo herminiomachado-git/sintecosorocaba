@@ -1,0 +1,24 @@
+/*Para dispositivos com width menor que 768px*/
+
+body {
+  padding-top: 90px;
+}
+
+/*Para dispositivos com width maior ou igual a 768px*/
+@media (min-width: 100px) {
+ body {
+     padding-top: 120px;
+  }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) {
+ body {
+     padding-top: 120px;
+     /*Para dispositivos com width maior ou igual a 992px*/
+  }
+}
+
+. navbar {
+	background-color: #00a3e8;
+}
